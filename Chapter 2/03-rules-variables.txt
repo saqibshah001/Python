@@ -1,0 +1,22 @@
+Variables Rule:
+
+1.Python mein variable ka naam English letter A–Z ya a–z se start ho sakta hai.
+2.Capital aur small letters Python mein different variables hain.
+3.Python saqib aur Saqib ko alag variables samajhta hai
+4.Python mein underscore _ se variable banana allowed hai.
+
+
+5.Variable ka naam number se start nahi ho sakta
+For Example:
+21saqib = 30   # ❌ Incorrect
+1a = 50        # ❌ Incorrect
+
+6.Number shuru mein nahi, lekin baad mein aa sakta hai.
+For Example:
+saqib1 = 30    # ✅ Correct
+a21 = 50       # ✅ Correct
+abc123 = 60    # ✅ Correct
+
+7.Variable ke naam mein special characters allowed nahi hain
+For Example:
+@saqib = 48    # ❌ Incorrect

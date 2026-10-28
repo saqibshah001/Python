@@ -1,0 +1,64 @@
+What are Operators in Python?
+Operators aise symbols ya words hote hain jin ki madad se hum values par calculations ya doosre operations perform karte hain.
+
+Type Of Operators
+
+1.Arithmetic Operators
+2.Comparison Operators
+3.Assignment Operators
+4.Logical Operators
+
+1. Arithmetic Operators
+Ye operators mathematical calculations ke liye use hote hain.
+
+Operator	Name	         Example	Output
++	       Addition	         10 + 5	    15
+-	       Subtraction	     10 - 5	    5
+*	       Multiplication	 10 * 5	    50
+/	       Division	         10 / 5	    2.0
+//	       Floor Division	 11 // 2	    5
+%	       Modulus	         11 % 2	    1
+**	       Exponentiation	 2 ** 3	    8
+
+
+
+2. Comparison Operators
+Ye operators do values ko compare karte hain aur result mein True ya False dete hain
+
+Operator	Meaning	                    Example	    Output
+==	        Equal to	                5 == 5	    True
+!=	        Not equal to	            5 != 3	    True
+>	        Greater than	            10 > 5	    True
+<	        Less than	                3 < 8	    True
+>=	        Greater than or equal to	5 >= 5	    True
+<=	        Less than or equal to	    4 <= 6	    True
+
+
+3. Assignment Operators
+Ye operators variables ko values assign karne ya unki existing values update karne ke liye use hote hain.
+
+Operator    Example     Meaning
+=           x = 10      x mein 10 store karo
++=          x += 5      x mein 5 add karo
+-=          x -= 5      x mein se 5 subtract karo
+*=          x *= 2      x ko 2 se multiply karo
+/=          x /= 2      x ko 2 se divide karo
+//=         x //= 2     Floor division karke update karo
+%=          x %= 3      Remainder se update karo
+**=         x **= 2     x ki power 2 karke update karo
+
+4. Logical Operators
+Logical operators conditions ko combine karne ke kaam aate hain
+
+and
+or
+not 
+
+And
+Dono conditions True honi chahiye
+
+Or 
+Kam az kam ek condition True honi chahiye
+
+Not
+True ko False aur False ko True bana deta hai.

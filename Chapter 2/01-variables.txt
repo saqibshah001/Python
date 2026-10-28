@@ -1,0 +1,2 @@
+What is Variables?
+Variable ek container (dabba) ki tarah hota hai, jisme hum koi value store karte hain, jaise number, name ya age.

@@ -1,0 +1,13 @@
+What is DataType?
+Data Type batata hai ke variable mein kis tarah ki value store hai, jaise text, number ya True/False.
+
+DataTypes:
+
+1.integer
+2.string
+3.floating Number 
+4.Boolean
+5.None
+
+None
+ye variable ham tab use karty hain jab hamy batana hota hai ky is variable mai kuch nahi 

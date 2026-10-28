@@ -1,0 +1,37 @@
+Q1. What is .py?
+.py Python file ki extension hoti hai. Jab hum Python ka program likhte hain, toh aam tor par us file ko .py extension ke saath save karte hain.
+
+Q2. What is module?
+Module ek Python file hoti hai jisme code likha hota hai aur hum us code ko apne doosre Python programs mein bhi use kar sakte hain.
+
+For Example
+Mere paas do files hain:
+- first.py
+- second.py
+Agar first.py mein koi function likha hai, toh tum us function ko second.py mein import karke use kar sakte ho.
+
+Q3. What is pip?
+PIP ek tool hai jiski madad se hum Python mein naye packages install karte hain.
+jesy ham ny abhi module.py mai pyjokes install kiya pip ki help sy ye command likhi mene 
+pip install pyjokes  
+
+Types of Modules in Python
+
+1. Built-in Modules
+2. User-defined Modules
+3. External Modules
+
+Built-in Modules
+Ye woh modules hain jo Python ke saath pehle se available hote hain.
+
+Examples: math, random, os
+
+User-defined Modules
+Ye woh modules hain jo hum khud Python ki files bana kar create karte hain.
+
+Example: jesy mene apni ak file banee or us mai ak funtion bana liya or phir agar mujhe wahi funtion kahi or use karna hoga tu mai direct us funtion wali file ko multiple jaga par use kar lu ga mujhe bar bar function kahi or likhna nahi parhy ga 
+
+External-Module
+Ye woh modules ya packages hain jo Python ke built-in modules ka hissa nahi hote aur jinhein aksar alag se install karna padta hai.
+
+Example: kesy ham ny abhi pyjokes install kiya tha ye external module hai 
