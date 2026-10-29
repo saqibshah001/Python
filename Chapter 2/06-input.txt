@@ -1,0 +1,2 @@
+input() Function Kya Hai?
+Python mein input() function ka use user se input lene ke liye hota hai.

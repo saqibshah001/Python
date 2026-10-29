@@ -1,0 +1,2 @@
+What is Type()?
+type() function ka use kisi bhi value ya variable ka data type check karne ke liye hota hai.
