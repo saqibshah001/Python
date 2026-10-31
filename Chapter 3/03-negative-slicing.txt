@@ -1,0 +1,10 @@
+What is negative slicing ?
+Negative slicing mein hum negative indexes (-1, -2, -3 etc.) use karke string ka koi hissa nikalte hain.matlab kaam wahi hai pehly wala bas index ki line - mai chalti hai 
+
+For Example:
+String "Python" ke indexes dekho:
+
+|    Character | P | y | t | h | o | n |
+               |---|---|---|---|---|---|---|
+Positive Index | 0 | 1 | 2 | 3 | 4 | 5 |
+Negative Index | -6 | -5 | -4 | -3 | -2 | -1 |

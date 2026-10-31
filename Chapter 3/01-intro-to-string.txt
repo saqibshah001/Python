@@ -1,0 +1,7 @@
+What is String?
+Python mein String text ya characters ka collection hoti hai. Jaise tumhara naam, koi word, ya sentence.
+
+String ko hum single quotes (' ') ya double quotes (" ") mein likhte hain.
+For Example:
+name = "Saqib" mein humne variable name ke andar string store ki is ka matlb ky single quotes (' ') ya double quotes (" ") mai ham ju bhi hoga wo string hoga 
+

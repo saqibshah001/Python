@@ -1,0 +1,14 @@
+What is Escape Sequence Characters?
+Escape sequences Python mein special characters hote hain jo backslash (\) se shuru hote hain aur string ke andar special kaam karne ke liye use hote hain.
+
+Types of Escape Sequences:
+
+\n (New Line): Text ko agli line mein print karne ke liye use hota hai.
+
+\t (Tab): Text ke darmiyan tab space dene ke liye use hota hai.
+
+\' (Single Quote): String ke andar single quote print karne ke liye use hota hai.
+
+\" (Double Quote): String ke andar double quote print karne ke liye use hota hai.
+
+\\ (Backslash): String ke andar backslash print karne ke liye use hota hai.

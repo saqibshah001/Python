@@ -1,0 +1,19 @@
+What is String Slicing?
+String Slicing ka matlab hai kisi string mein se apni marzi ka (part) nikalna
+
+For Example:
+Python mein har character ka ek index number hota hai. Index 0 se start hota hai.
+
+String "Saqib Shah" ke indexes dekho:
+
+| Character | S | a | q | i | b |   | S | h | a | h |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Index |     0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+print(name[0:5])
+
+- 0 = jahan se characters lene shuru karne hain.
+- 5 = jahan rukna hai, lekin index 5 wala character include nahi hoga.
+Isliye output "Saqib" aata hai.
+
+Yaad rakho: Starting index include hota hai, ending index include nahi hota.

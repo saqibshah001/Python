@@ -1,0 +1,27 @@
+1. len()
+
+Definition: len() function string mein mojood tamam characters ki tadaad count karta hai, spaces ko bhi count karta hai.
+
+2. upper()
+
+Definition: upper() method string ke tamam letters ko capital letters mein convert karta hai.
+
+3. lower()
+
+Definition: lower() method string ke tamam capital letters ko small letters mein convert karta hai.
+
+4. replace()
+
+Definition: replace() method string mein kisi word ya character ko doosre word ya character se replace karne ke liye use hota hai.
+
+5. endswith()
+
+Definition: endswith() method check karta hai ke string kisi specified word ya character par end hoti hai ya nahi. Agar match ho to True, warna False return karta hai.
+
+6. startswith()
+
+Definition: startswith() method check karta hai ke string kisi specified word ya character se start hoti hai ya nahi. Agar match ho to True, warna False return karta hai.
+
+7. capitalize()
+
+Definition: capitalize() method string ke pehle character ko capital letter mein aur baqi tamam letters ko small letters mein convert karta hai.
