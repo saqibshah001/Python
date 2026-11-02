@@ -1,0 +1,5 @@
+What is List?
+List ek aisa container hai jismein hum multiple values ko ek hi variable mein store kar sakte hain.
+
+For Example:
+agar hamhein 5 students ke naam store karne hain, toh har naam ke liye alag variable banane ki zaroorat nahi.

@@ -1,0 +1,19 @@
+List of Methods
+
+1. append()
+List ke end mein nayi value add karta hai.
+
+2. insert()
+List mein kisi specific position par value add karta hai.
+
+3. remove()
+List se kisi specific value ko remove karta hai.
+
+4. pop()
+List se kisi index ki value remove karta hai. Agar index na do, to aakhri value remove hoti hai.
+
+5. sort()
+List ki values ko order mein arrange karta hai.
+
+6. reverse()
+List ke elements ka order ulta kar deta hai.
