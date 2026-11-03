@@ -1,0 +1,6 @@
+What is Tuple ?
+Tuple ek aisa data type hai jismein hum multiple values ko ek hi variable mein store kar sakte hain.
+
+Tuple ko round brackets () mein likhte hain.
+
+jesy ham list mai chnaging kar dete thy eysy ham tuples mai nahi kar sakhty na vlaue add hogi na change hogi 

@@ -1,0 +1,3 @@
+Python mein Tuple ke 2 built-in methods hain:
+1. count()
+2. index()
