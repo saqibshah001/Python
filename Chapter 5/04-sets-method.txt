@@ -1,0 +1,37 @@
+Set Methods
+
+1. add()
+
+Set mein ek new value add karne ke liye add() method ka use hota hai.
+
+2. update()
+
+Set mein multiple values add karne ke liye update() method ka use hota hai.
+
+3. remove()
+
+Set mein se kisi specific value ko remove karta hai. Agar value exist nahi karti toh KeyError deta hai.
+
+4. discard()
+
+Set mein se kisi specific value ko remove karta hai. Agar value exist nahi karti toh koi error nahi deta.
+
+5. pop()
+
+Set mein se koi ek element remove karta hai. Ye zaroori nahi ke last element hi remove ho.
+
+6. clear()
+
+Set ki tamam values remove karke Set ko empty kar deta hai.
+
+7. union()
+
+Do ya zyada Sets ko combine karta hai aur duplicate values ko remove karta hai.
+
+8. intersection()
+
+Do Sets mein se sirf common values return karta hai.
+
+9. difference()
+
+Pehle Set mein se woh values return karta hai jo doosre Set mein exist nahi karti.

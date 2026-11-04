@@ -1,0 +1,40 @@
+Dictionary Methods
+1. items()
+
+Dictionary ki tamam keys aur values ko pairs ki form mein return karta hai.
+
+2. keys()
+
+Dictionary ki tamam keys return karta hai.
+
+3. values()
+
+Dictionary ki tamam values return karta hai.
+
+4. update()
+
+Dictionary mein new key-value pair add karta hai ya existing value update karta hai.
+
+5. get()
+
+Dictionary mein se kisi specific key ki value hasil karta hai.
+Agar key exist nahi karti toh default mein None return karta hai.
+
+6. Square Brackets []
+
+Key ki madad se dictionary mein se value hasil karte hain.
+Agar key exist nahi karti toh KeyError deta hai.
+
+7. pop()
+
+Dictionary mein se specific key aur uski value remove karta hai.
+
+8. popitem()
+
+Dictionary mein se last inserted key-value pair remove karta hai.
+
+Important Difference: get() vs []
+
+get() → Key exist nahi karti toh None return karta hai.
+
+[] → Key exist nahi karti toh KeyError deta hai.

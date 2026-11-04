@@ -1,0 +1,13 @@
+What is Set?
+Set Python ka ek data type hai jo multiple values store karta hai, lekin iski sabse important baat ye hai:
+
+Set duplicate values ko allow nahi karta.
+
+For Example:
+numbers = {10, 20, 30, 10, 20, 40}
+
+print(numbers)
+
+anwser
+{10,20,30,40}
+same values ko ak bar hi print karta hai bar bar nahi karta 

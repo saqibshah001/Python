@@ -1,0 +1,2 @@
+What is Dictionary?
+Dictionary ek data type hai jo data ko Key-Value pairs ki form mein store karta hai.
