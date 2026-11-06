@@ -1,0 +1,44 @@
+If-Elif-Else Ladder (Python)
+Definition:
+
+Python mein if-elif-else ladder ka use tab hota hai jab humein multiple conditions check karni hoti hain.
+
+Python conditions ko ek ek karke top se bottom tak check karta hai. Jo pehli condition True hoti hai, uska code execute hota hai aur baqi conditions skip ho jati hain.
+1. if Statement
+- Sabse pehle if condition check hoti hai.
+- Agar condition True ho to if ka code execute hota hai.
+2. elif Statement
+- elif ka full form Else If hai.
+- Jab pehli condition False ho to Python elif check karta hai.
+- Hum multiple elif conditions use kar sakte hain.
+3. else Statement
+- else tab execute hota hai jab if aur tamam elif conditions False hon.
+- else ke saath koi condition nahi likhi jati.
+
+
+
+input() user se age leta hai.
+
+
+
+int() input ko integer mein convert karta hai.
+
+
+
+if(a >= 18) check karta hai ke age 18 ya us se zyada hai.
+
+
+
+elif(a < 0) check karta hai ke age negative number to nahi hai.
+
+
+
+elif(a == 0) check karta hai ke user ne zero enter kiya hai ya nahi.
+
+
+
+else tab execute hota hai jab upar di gayi tamam conditions False hon.
+
+
+
+print("End of Program") har condition ke baad execute hota hai.

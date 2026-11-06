@@ -8,7 +8,7 @@ print(marks.items())
 print(marks.keys())
 print(marks.values())
 
-marks.update({"ali": 100, "saqib": 75})
+marks.update({"ali": 100, "saqib": 75}) #ye update wala method update bhi karta hai sath mai add bhi kar deta hai matlab dono ak sath is line mai bhi saqib new add kiya 
 print (marks)
 
 

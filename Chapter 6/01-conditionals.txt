@@ -1,0 +1,37 @@
+Python mein Conditionals ka matlab hota hai kisi condition (shart) ko check karna aur uske mutabiq code execute karna.
+
+1. if statement
+if ka use tab hota hai jab hum kisi condition ko check karna chahte hain.
+
+2. else statement
+else tab execute hota hai jab if ki condition False ho.
+
+3. elif statement
+elif ka matlab hai Else If.
+
+Jab humein multiple conditions check karni hon to elif use karte hain.
+
+
+
+
+input() user se age input leta hai.
+
+
+
+int() input ko integer (number) mein convert karta hai.
+
+
+
+if(a >= 18) check karta hai ke age 18 ya us se zyada hai.
+
+
+
+Agar condition True ho to dono print() statements execute hongi.
+
+
+
+Agar condition False ho to else wala message print hoga.
+
+
+
+print("End of Program") dono conditions ke baad execute hoga, kyun ke ye if-else ke bahar hai.
