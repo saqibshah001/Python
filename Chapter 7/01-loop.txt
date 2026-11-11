@@ -1,0 +1,7 @@
+What is Loop?
+Loop ka matlab hota hai kisi code ko baar-baar (repeat) execute karna.
+
+For example, agar tumhein 1 se 5 tak numbers print karne hain, toh har number ke liye alag print() likhne ki zaroorat nahi. Loop use kar sakte ho.
+Python mein 2 main types ke loops hain:
+1. For Loop – Jab humein pata ho ke kitni baar code repeat karna hai.
+2. While Loop – Jab tak condition True ho, code repeat hota rahe.

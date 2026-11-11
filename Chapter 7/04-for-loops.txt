@@ -1,0 +1,42 @@
+<<<<<<<<<<<<<<<<<<<<<<<<Step 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Important Points
+
+for loop ko start karne ke liye use hota hai.
+
+i aik variable hai jo har iteration mein nayi value leta hai.
+
+range() aik function hai jo numbers ki series generate karta hai.
+
+range(4) ka matlab hai 0 se 3 tak numbers.
+
+Range function mein ending number include nahi hota.
+
+Har iteration mein loop variable ki value automatically change hoti hai.
+
+Example
+
+for i in range(4):
+    print(i)
+
+Output
+
+0
+1
+2
+3
+
+Conclusion
+
+For loop ki madad se hum code ko multiple times execute kar sakte hain. Range function ki madad se hum decide kar sakte hain ke loop kitni baar chalega.
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<Step 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Step Size
+Yahan range() ke andar 3 values hain:
+Value	Meaning
+0	Counting kahan se start hogi
+100	Counting kahan par stop hogi
+4	Har baar kitna increase hoga

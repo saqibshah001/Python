@@ -1,0 +1,22 @@
+# While Loop ke Sath List
+
+### Definition
+Hum `while loop` ka use karke list ke tamam elements ko unke index numbers ki madad se aik aik karke access aur print kar sakte hain.
+
+### Important Points
+
+1. `len(list)` list ke total elements ki tadaad batata hai.
+2. List ki indexing hamesha 0 se start hoti hai.
+3. `i = 0` index variable ki starting value set karta hai.
+4. `while(i < len(list))` loop ko tab tak chalata hai jab tak condition True hoti hai.
+5. `list[i]` list ke current index par mojood element ko access karta hai.
+6. `i += 1` har iteration ke baad index ki value mein 1 ka izafa karta hai.
+
+### Code ka Maqsad
+Is code mein humne while loop ki madad se list ke tamam elements ko aik aik karke print karwaya hai.
+
+### Important Note
+Agar hum loop ke andar `i += 1` nahi likhenge toh index ki value change nahi hogi aur loop Infinite Loop ban sakta hai.
+
+### Conclusion
+While loop ki madad se hum list ke tamam elements ko unke index numbers ke zariye aik aik karke access kar sakte hain.

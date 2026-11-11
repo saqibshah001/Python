@@ -1,0 +1,52 @@
+# For Loop with Lists, Tuples and Strings
+
+### Definition
+Python mein for loop ki madad se hum Lists, Tuples aur Strings ke elements ko aik aik karke access kar sakte hain.
+
+### 1. For Loop with Lists
+
+For loop list ke tamam elements ko aik aik karke access karta hai aur unhein print kar sakta hai.
+
+**Example:**
+```python
+l = [1, 52, 95, 652, 1523, 59, 5]
+
+for i in l:
+    print(i)
+```
+
+### 2. For Loop with Tuples
+
+For loop tuple ke tamam elements ko aik aik karke access karta hai aur unhein print karta hai.
+
+**Example:**
+```python
+t = (512, 45120, 452, 845)
+
+for i in t:
+    print(i)
+```
+
+### 3. For Loop with Strings
+
+For loop string ke har character ko aik aik karke access karta hai aur print karta hai.
+
+**Example:**
+```python
+s = "Saqib"
+
+for i in s:
+    print(i)
+```
+
+### Important Points
+
+1. For loop list ke elements ko aik aik karke access kar sakta hai.
+2. For loop tuple ke elements ko bhi aik aik karke access kar sakta hai.
+3. For loop string ke har character ko alag alag access kar sakta hai.
+4. `i` aik variable hai jo har iteration mein nayi value leta hai.
+5. For loop automatically next element par move karta hai.
+6. In teeno cases mein humein manually index increase karne ki zaroorat nahi hoti.
+
+### Conclusion
+For loop ki madad se hum Lists, Tuples aur Strings ke tamam elements ko asaani se aik aik karke access kar sakte hain.

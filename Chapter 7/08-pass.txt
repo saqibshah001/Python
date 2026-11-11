@@ -1,0 +1,4 @@
+Pass Statement
+
+Definition
+pass Statementka matlab hai ky agar mujhe koi kaam adhy mai hi chorna hoga tu mai ye karo ga pass likh kar us code ko aadhy mai chor sakhta hu error nahi aaye ga phir ham aagy or kaam kar sakhty hain phir agar wahi pehly wala kaam karna hua tab hua tu ham pass ko hata kar apna kaam countinue kar sakhty hain 

@@ -1,0 +1,40 @@
+For Loop with Else
+
+Definition
+
+Python mein hum for loop ke saath else bhi use kar sakte hain. Else block tab execute hota hai jab for loop successfully complete ho jata hai.
+
+Important Points
+
+for loop sequence ke elements ko aik aik karke access karta hai.
+
+else block loop complete hone ke baad execute hota hai.
+
+Agar loop successfully complete ho jaye toh else execute hota hai.
+
+Agar loop ko break ki madad se beech mein stop kar diya jaye toh else execute nahi hota.
+
+else ko loop ke saath use karna zaroori nahi hai.
+
+Example
+
+l = [1, 2, 4, 8, 7]
+
+for item in l:
+    print(item)
+
+else:
+    print("done")
+
+Output
+
+1
+2
+4
+8
+7
+done
+
+Conclusion
+
+For loop ke saath else ka use tab hota hai jab humein loop successfully complete hone ke baad koi extra kaam karwana ho.

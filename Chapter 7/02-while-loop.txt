@@ -1,0 +1,2 @@
+1. What is a while loop?
+while loop ka use kisi code ko baar-baar execute (repeat) karne ke liye hota hai, jab tak di gayi condition True hoti hai

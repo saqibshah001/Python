@@ -1,0 +1,67 @@
+# Break and Continue Statements
+
+## 1. Break Statement
+
+### Definition
+Break statement ka use loop ko foran terminate (khatam) karne ke liye hota hai.
+
+### Important Points
+1. Break poore loop ko stop kar deta hai.
+2. Break execute hone ke baad loop dobara nahi chalta.
+3. Break ki madad se hum apni zaroorat ke mutabiq loop ko beech mein rok sakte hain.
+
+### Example
+
+```python
+for i in range(100):
+    if (i == 34):
+        break
+
+    print(i)
+```
+
+### Output
+```text
+0
+1
+2
+...
+33
+```
+
+## 2. Continue Statement
+
+### Definition
+Continue statement ka use current iteration ko skip karne ke liye hota hai. Iske baad loop next iteration par chala jata hai.
+
+### Important Points
+1. Continue sirf current iteration ko skip karta hai.
+2. Loop terminate nahi hota.
+3. Continue ke baad loop next iteration se dobara chalta hai.
+4. Continue ki madad se hum kisi specific value ko skip kar sakte hain.
+
+### Example
+
+```python
+for i in range(100):
+    if (i == 34):
+        continue
+
+    print(i)
+```
+
+### Output
+```text
+0
+1
+2
+...
+33
+35
+36
+...
+99
+```
+
+## Conclusion
+Break poore loop ko khatam karta hai, jabke Continue sirf current iteration ko skip karta hai aur loop ko aage chalata rehta hai.
